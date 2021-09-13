@@ -5,6 +5,7 @@
 
     <SpaRoot>..\BaGet.UI\</SpaRoot>
     <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
+    <UserSecretsId>b6b5d048-1819-46e9-b00e-ea6e491ef1f6</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
